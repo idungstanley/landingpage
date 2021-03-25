@@ -62,7 +62,7 @@ a{
  text-decoration: none;
 }
 body{
- background-image:url("./infinix/banner2560x1100_note8.jpg");
+ background-image:url("./image/banner2560x1100_note8.jpg");
  /* background-color: dimgrey; */
  background-size: 100%;
  background-repeat: no-repeat;
@@ -71,7 +71,7 @@ body{
  position: absolute;
 }
 .stan{
-background-image: url("./infinix/pexels-photo-861126.jpeg");
+background-image: url("./image/pexels-photo-821754.jpeg");
 bottom: 0;
 left:0;
 right:0;
